@@ -1,5 +1,5 @@
 public class Greet {
-    private String goodDayWorld(){
+    private String helloWorldMergedFixedVersion(){
         return "Hello World! From Stuart";
     }
 
