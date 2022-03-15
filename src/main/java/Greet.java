@@ -1,5 +1,5 @@
 public class Greet {
-    private String helloWorld(){
+    private String goodDayWorld(){
         return "Hello World! From Stuart";
     }
 
